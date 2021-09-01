@@ -4,7 +4,12 @@
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <div class="nav-img">
-            <img src="../assets/herbal.png" class="card-img-top" alt="..." />
+            <img
+              src="../assets/herbal.png"
+              class="card-img-top"
+              alt="img
+            "
+            />
           </div>
           <button
             class="navbar-toggler"
@@ -58,7 +63,7 @@ nav ul li:hover{
 } */
 /* ul li.active {
   background-color: #b2bbb2;
-  
+
 } */
 
 .navbar-nav {
